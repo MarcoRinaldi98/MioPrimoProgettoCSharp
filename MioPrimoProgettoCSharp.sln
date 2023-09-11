@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipizzazioneClonazione", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DichiarazioneVariabili", "DichiarazioneVariabili\DichiarazioneVariabili.csproj", "{FB90097F-CD0B-4BAB-AB88-BCD8C505662B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funzioni", "Funzioni\Funzioni.csproj", "{D13E0F16-D3FB-46A1-B8BD-A8ADE9C6EE00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funzioni", "Funzioni\Funzioni.csproj", "{D13E0F16-D3FB-46A1-B8BD-A8ADE9C6EE00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oggetti", "Oggetti\Oggetti.csproj", "{C68EB0DC-9699-4E57-A3F9-1A47C86C1DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ereditarietà", "Ereditarietà\Ereditarietà.csproj", "{C648557D-322F-451C-B9E2-F640A90DC380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D13E0F16-D3FB-46A1-B8BD-A8ADE9C6EE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D13E0F16-D3FB-46A1-B8BD-A8ADE9C6EE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D13E0F16-D3FB-46A1-B8BD-A8ADE9C6EE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68EB0DC-9699-4E57-A3F9-1A47C86C1DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68EB0DC-9699-4E57-A3F9-1A47C86C1DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68EB0DC-9699-4E57-A3F9-1A47C86C1DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68EB0DC-9699-4E57-A3F9-1A47C86C1DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C648557D-322F-451C-B9E2-F640A90DC380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C648557D-322F-451C-B9E2-F640A90DC380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C648557D-322F-451C-B9E2-F640A90DC380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C648557D-322F-451C-B9E2-F640A90DC380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
